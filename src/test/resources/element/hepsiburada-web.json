@@ -1,0 +1,183 @@
+[
+  {
+    "keyword": "CookieAcceptButton",
+    "locatorType": "id",
+    "locatorValue": "onetrust-accept-btn-handler",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SingIn",
+    "locatorType": "css",
+    "locatorValue": "[class='sf-OldMyAccount-MjrNQp_LLdAaN1g0xvSz sf-OldMyAccount-PXwq1OUkBqnJIa_AiSrJ sf-OldMyAccount-PwltpvPnXbB2agEKtsYd']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "Login",
+    "locatorType": "id",
+    "locatorValue": "login",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "LoginEmail",
+    "locatorType": "id",
+    "locatorValue": "txtUserName",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "LoginButton",
+    "locatorType": "id",
+    "locatorValue": "btnLogin",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "LoginPassword",
+    "locatorType": "xpath",
+    "locatorValue": "//input[@placeholder='Şifre']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SingInButton",
+    "locatorType": "id",
+    "locatorValue": "btnEmailSelect",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "MyAccountName",
+    "locatorType": "css",
+    "locatorValue": "[class='sf-OldMyAccount-sS_G2sunmDtZl9Tld5PR']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "MyAccountTitle",
+    "locatorType": "xpath",
+    "locatorValue": "//a[@title='Hesabım']//span[@class='sf-OldMyAccount-d0xCHLV38UCH5cD9mOXq']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ClosePopUp",
+    "locatorType": "xpath",
+    "locatorValue": "//div[@class='hb-AxhVE bHcA szn7clit3t5']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SearchInput",
+    "locatorType": "css",
+    "locatorValue": "[class='desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SearchInputButton",
+    "locatorType": "css",
+    "locatorValue": "[class='SearchBoxOld-cHxjyU99nxdIaAbGyX7F']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ProductSelect",
+    "locatorType": "xpath",
+    "locatorValue": "//h3[text()='Garmin Descent MK2I Dalış Saati-Descent T1 Bundle']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ProductName",
+    "locatorType": "id",
+    "locatorValue": "product-name",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddToBasket",
+    "locatorType": "id",
+    "locatorValue": "addToCart",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AlertAddBasket",
+    "locatorType": "css",
+    "locatorValue": "[class='hb-toast-text']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "OtherBuyOption",
+    "locatorType": "css",
+    "locatorValue": "[class='otherBuyOptions']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AllBuyOptionExpand",
+    "locatorType": "css",
+    "locatorValue": "[class='optionsLength']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddToBasketOtherOption",
+    "locatorType": "xpath",
+    "locatorValue": "(//button[@class='add-to-basket button'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "GoToBasket",
+    "locatorType": "css",
+    "locatorValue": "[class='hb-toast-message']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "BasketButton",
+    "locatorType": "id",
+    "locatorValue": "shoppingCart",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "OtherBuyOptionsNameFirst",
+    "locatorType": "css",
+    "locatorValue": "[class='merchantText_3iHjm']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "OtherBuyOptionsNameSecond",
+    "locatorType": "xpath",
+    "locatorValue": "(//div[@class='merchantText_3iHjm'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "InBasketFirstProductApproved",
+    "locatorType": "xpath",
+    "locatorValue": "//a[text()='Garmin Descent MK2I Dalış Saati-Descent T1 Bundle']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "InBasketSecondProductApproved",
+    "locatorType": "xpath",
+    "locatorValue": "(//a[text()='Garmin Descent MK2I Dalış Saati-Descent T1 Bundle'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "web"
+  }
+]
+

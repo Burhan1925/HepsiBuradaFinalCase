@@ -1,0 +1,25 @@
+Burhan1925.
+
+# Login bilgileri girilir.
+* "CookieAcceptButton" li elementinin görünürlüğü kontrol edilir.
+* "CookieAcceptButton" 'li elemente görünür ise tıklanır.
+* "SingIn" li elementinin görünürlüğü kontrol edilir.
+* "SingIn" li elemente tıklanır.
+* "Login" li elementinin görünürlüğü kontrol edilir.
+* "Login" li elemente tıklanır.
+* "LoginEmail" li elementinin görünürlüğü kontrol edilir.
+* "LoginEmail" 'li elemente "javaautomationtest@gmail.com" degeri girilir.
+* "LoginButton" li elementinin görünürlüğü kontrol edilir.
+* "LoginButton" li elemente tıklanır.
+* "LoginPassword" li elementinin görünürlüğü kontrol edilir.
+* "LoginPassword" 'li elemente "1A2s3d4f" degeri girilir.
+* "SingInButton" li elementinin görünürlüğü kontrol edilir.
+* "SingInButton" li elemente tıklanır.
+
+# Anasayfaya kullanıcı giriş işlemi yaptığı doğrulanır.
+* "MyAccountName" li elementinin görünürlüğü kontrol edilir.
+* "MyAccountTitle" li elementinin görünürlüğü kontrol edilir.
+
+# Çerezler kabul edilir.
+* "CookieAcceptButton" li elementinin görünürlüğü kontrol edilir.
+* "CookieAcceptButton" 'li elemente görünür ise tıklanır.

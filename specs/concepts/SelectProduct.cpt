@@ -1,0 +1,5 @@
+Burhan1925.
+
+# Arama yapılan ürün ile Yeni Sekmede işleme devam edilir.
+* Yeni sekmede seçilen ürün açılır.
+* "ProductName" li elementinin görünürlüğü kontrol edilir.

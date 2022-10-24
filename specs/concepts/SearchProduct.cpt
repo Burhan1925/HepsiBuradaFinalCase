@@ -1,0 +1,11 @@
+Burhan1925.
+
+# Satın alınacak ürün için arama yapılır.
+* "SearchInput" li elementinin görünürlüğü kontrol edilir.
+* "SearchInput" 'li elemente "Garmin Descent MK2I Dalış Saati-Descent T1 Bundle" degeri girilir.
+* "SearchInputButton" li elementinin görünürlüğü kontrol edilir.
+* "SearchInputButton" li elemente tıklanır.
+
+
+
+

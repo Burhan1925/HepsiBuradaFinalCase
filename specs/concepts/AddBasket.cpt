@@ -1,0 +1,25 @@
+Burhan1925.
+
+# Ürün ilk açılan satıcıdan sepete eklenir.
+* "AddToBasket" li elementinin görünürlüğü kontrol edilir.
+* "AddToBasket" li elemente tıklanır.
+* "AlertAddBasket" li elementinin görünürlüğü kontrol edilir.
+
+# Farklı satıcıdan ürün tekrardan sepete eklenir.
+* "OtherBuyOption" li elementinin görünürlüğü kontrol edilir.
+* "AllBuyOptionExpand" li elementinin görünürlüğü kontrol edilir.
+* "AllBuyOptionExpand" li elemente tıklanır.
+* "AddToBasketOtherOption" li elementinin görünürlüğü kontrol edilir.
+* "AddToBasketOtherOption" li elemente tıklanır.
+* "AlertAddBasket" li elementinin görünürlüğü kontrol edilir.
+
+# Sepete gidilir, doğru ürünlerin seçildiği ve sepete eklendiği doğrulanır.
+* "BasketButton" li elementinin görünürlüğü kontrol edilir.
+* "BasketButton" li elemente tıklanır.
+* "OtherBuyOptionsNameFirst" li elementinin görünürlüğü kontrol edilir.
+* "OtherBuyOptionsNameSecond" li elementinin görünürlüğü kontrol edilir.
+* "InBasketFirstProductApproved" li elementinin görünürlüğü kontrol edilir.
+* "InBasketSecondProductApproved" li elementinin görünürlüğü kontrol edilir.
+
+
+
