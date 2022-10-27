@@ -172,12 +172,17 @@ public class DriverManager {
 
     public ChromeOptions getChromeOptions() {
         ChromeOptions options = new ChromeOptions();
+        options.addArguments("--incognito");
         options.addArguments("--disable-notifications");
         options.addArguments("--disable-popup-blocking");
         options.addArguments("--disable-translate");
-        options.addArguments("start-maximized");
+        options.addArguments("--start-maximized");
         options.addArguments("--disable-gpu");
+        options.addArguments("--ignore,certificate-errors");
+        options.addArguments("--allow-insecure-localhost");
+        options.addArguments("--acceptInsecureCerts");
         options.addArguments("--disable-blink-features=AutomationControlled");
+        options.addArguments("--disable-extensions");
         return options;
     }
 
