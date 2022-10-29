@@ -178,7 +178,7 @@ public class DriverManager {
         options.addArguments("--disable-translate");
         options.addArguments("--start-maximized");
         options.addArguments("--disable-gpu");
-        options.addArguments("--ignore,certificate-errors");
+        options.addArguments("--ignore-certificate-errors");
         options.addArguments("--allow-insecure-localhost");
         options.addArguments("--acceptInsecureCerts");
         options.addArguments("--disable-blink-features=AutomationControlled");
